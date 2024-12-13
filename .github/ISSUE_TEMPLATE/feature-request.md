@@ -1,8 +1,8 @@
 ---
-name: User Story request
-about: Suggest a functionnality for this feature
-title: "[USER STORY]"
-labels: User Story
+name: Feature request
+about: CookAdam feature
+title: "[FEATURE]"
+labels: Feature
 assignees: ''
 
 ---
